@@ -8,7 +8,7 @@
 git clone https://<<token>>@github.com/LunahStaryy/prog-1-tri-2-ativ-1 projeto
 
 
-             nao tem espacos no meio
-git clone https:// <token>@github.com/ <<username>> / <repositorio> projeto
+             nao tem espacos no meio         
+git clone https://<<token>>@github.com/LunahStaryy/<<repositorio>> projeto
 
 code --user-data-dir=data-vscode projeto
