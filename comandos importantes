@@ -1,0 +1,14 @@
+13/05/2026
+
+- criar um repositorio
+- abrir no explorer
+- clicar na barra de endereço e digitar 'cmd' para abrir o terminal
+- neste terminal, execute os comandos 
+
+git clone https://<<token>>@github.com/LunahStaryy/prog-1-tri-2-ativ-1 projeto
+
+
+             nao tem espaco
+git clone https:// <token>@github.com/ <<username>> / <repositorio> projeto
+
+code --user-data-dir=data-vscode projeto
