@@ -12,3 +12,5 @@ git clone https://<<token>>@github.com/LunahStaryy/prog-1-tri-2-ativ-1 projeto
 git clone https://<<token>>@github.com/LunahStaryy/<<repositorio>> projeto
 
 code --user-data-dir=data-vscode projeto
+
+bun init -y
